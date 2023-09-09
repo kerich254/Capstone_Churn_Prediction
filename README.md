@@ -54,7 +54,7 @@ To set up the project environment, follow these steps:
 git clone my_github 
 
 ```bash 
-https://github.com/FranAcheampong/Capstone_Churn_Prediction.git
+https://github.com/kerich254/Capstone_Churn_Prediction
 ```
 
 2. Install the required dependencies:
