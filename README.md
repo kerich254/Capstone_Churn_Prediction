@@ -193,4 +193,4 @@ You contribution, critism etc are welcome. We are willing to colaborate with any
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/mike-kerich-6952081a0/) 
 
 
-[![Medium Channel](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BKPC9gdvGTdCRRoXea8vpnA%3D%3D)](https://medium.com/@mkibekerich14/) 
+[![Medium Channel](https://medium.com/?source=---two_column_layout_nav----------------------------------)](https://medium.com/@mkibekerich14/) 
