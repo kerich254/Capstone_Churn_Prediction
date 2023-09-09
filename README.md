@@ -191,3 +191,6 @@ You contribution, critism etc are welcome. We are willing to colaborate with any
 `Azubi Africa`
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/mike-kerich-6952081a0/) 
+
+
+[![Medium Channel](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://medium.com/@mkibekerich14/) 
