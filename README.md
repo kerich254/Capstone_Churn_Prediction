@@ -185,9 +185,9 @@ You contribution, critism etc are welcome. We are willing to colaborate with any
 
 ## Contact
 
-`ACHEAMPONG Francis` 
+`Kerich Mike` 
 
 `Data Analyst`
 `Azubi Africa`
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/francis-acheampong) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/mike-kerich-6952081a0/) 
