@@ -181,7 +181,7 @@ Here's a step-by-step process on how to use the [Streamlit App](https://huggingf
 
 
 ## Contribution
-You contribution, critism etc are welcome. We are willing to colaborate with any data analyst/scientist to improve this project. Thank your 
+You comments and corrections are highly welcomed. We are willing to colaborate with any data analyst/scientist to improve this project. Thank you all!
 
 ## Contact
 
